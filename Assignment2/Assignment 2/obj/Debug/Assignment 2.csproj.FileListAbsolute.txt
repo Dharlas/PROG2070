@@ -1,0 +1,6 @@
+C:\Users\Kelly\Documents\Conestoga2020\Winter\PROG2070 Software Quality Assurance\Assignments\assignment 2\Assignment2_CodeReview\Assignment2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\Kelly\Documents\Conestoga2020\Winter\PROG2070 Software Quality Assurance\Assignments\assignment 2\Assignment2_CodeReview\Assignment2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\Kelly\Documents\Conestoga2020\Winter\PROG2070 Software Quality Assurance\Assignments\assignment 2\Assignment2_CodeReview\Assignment2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\Kelly\Documents\Conestoga2020\Winter\PROG2070 Software Quality Assurance\Assignments\assignment 2\Assignment2_CodeReview\Assignment2\Assignment 2\obj\Debug\Assignment 2.csprojAssemblyReference.cache
+C:\Users\Kelly\Documents\Conestoga2020\Winter\PROG2070 Software Quality Assurance\Assignments\assignment 2\Assignment2_CodeReview\Assignment2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\Kelly\Documents\Conestoga2020\Winter\PROG2070 Software Quality Assurance\Assignments\assignment 2\Assignment2_CodeReview\Assignment2\Assignment 2\obj\Debug\Assignment 2.pdb
